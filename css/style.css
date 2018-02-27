@@ -1,6 +1,17 @@
 .box {
-	color: yellow;
+	background: yellow;
 	height: 200px;
 	width: 200px;
 	text-align: center;
+	border: solid 1px red;
+	display: inline-block;
+}
+.green{
+	background: green;
+}
+.blue{
+	background: blue;
+}
+.pink{
+	background: pink;
 }
